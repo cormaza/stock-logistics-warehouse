@@ -1,0 +1,4 @@
+---Models in module 'account_move_line_stock_info'---
+---Fields in module 'account_move_line_stock_info'---
+---XML records in module 'account_move_line_stock_info'---
+---nothing has changed in this module--
